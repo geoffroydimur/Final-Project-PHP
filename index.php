@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test</title>
+</head>
+<body>
+	<form action="index_submit" method="post" accept-charset="utf-8">
+		<input type="checkbox" name="Whatever" value="Whatever">
+	</form>
+</body>
+</html>
